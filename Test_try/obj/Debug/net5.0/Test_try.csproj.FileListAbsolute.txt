@@ -1,0 +1,16 @@
+C:\Users\User105\source\repos\Test_try\bin\Debug\net5.0\Test_try.exe
+C:\Users\User105\source\repos\Test_try\bin\Debug\net5.0\Test_try.deps.json
+C:\Users\User105\source\repos\Test_try\bin\Debug\net5.0\Test_try.runtimeconfig.json
+C:\Users\User105\source\repos\Test_try\bin\Debug\net5.0\Test_try.runtimeconfig.dev.json
+C:\Users\User105\source\repos\Test_try\bin\Debug\net5.0\Test_try.dll
+C:\Users\User105\source\repos\Test_try\bin\Debug\net5.0\ref\Test_try.dll
+C:\Users\User105\source\repos\Test_try\bin\Debug\net5.0\Test_try.pdb
+C:\Users\User105\source\repos\Test_try\obj\Debug\net5.0\Test_try.csproj.AssemblyReference.cache
+C:\Users\User105\source\repos\Test_try\obj\Debug\net5.0\Test_try.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User105\source\repos\Test_try\obj\Debug\net5.0\Test_try.AssemblyInfoInputs.cache
+C:\Users\User105\source\repos\Test_try\obj\Debug\net5.0\Test_try.AssemblyInfo.cs
+C:\Users\User105\source\repos\Test_try\obj\Debug\net5.0\Test_try.csproj.CoreCompileInputs.cache
+C:\Users\User105\source\repos\Test_try\obj\Debug\net5.0\Test_try.dll
+C:\Users\User105\source\repos\Test_try\obj\Debug\net5.0\ref\Test_try.dll
+C:\Users\User105\source\repos\Test_try\obj\Debug\net5.0\Test_try.pdb
+C:\Users\User105\source\repos\Test_try\obj\Debug\net5.0\Test_try.genruntimeconfig.cache
